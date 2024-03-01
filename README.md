@@ -112,27 +112,27 @@ img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master
 <a href="https://github.com/2Pillows/dim_wishlist_splitter">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=holi"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=holi&show_owner=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=default&show_owner=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&show_owner=true" />
 </picture>
 </a>
 
 <a href="https://github.com/2Pillows/poe_economy_evaluator"> 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=holi"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=holi&show_owner=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=default&show_owner=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true" />
 </picture>
 </a>
