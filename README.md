@@ -36,7 +36,7 @@
   <!--<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
   <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> 
-  <img align="left" alt="WebGL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg">
+  <img align="left" align-items="center" alt="WebGL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg">
   <!--<img align="left" alt="Puppeteer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" /> -->
   <!--<img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> -->
   <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
