@@ -13,6 +13,19 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=dark&hide_rank=true" />
 </a>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=dark&hide_rank=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true" />
+</picture>
+
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=github_dark_dimmed&layout=compact" />
 </a> -->
