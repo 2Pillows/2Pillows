@@ -27,13 +27,13 @@
 ### Languages and Tools:
 
 Python
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 Java
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />]
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 
 JavaScript
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
 HTML
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />]
