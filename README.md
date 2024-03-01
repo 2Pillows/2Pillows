@@ -2,17 +2,24 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=flat&color=blue&label=visitors)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=holi&hide_rank=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=default&hide_rank=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true" />
-</picture>
+```python
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.alias = "Pillows"
+        self.aspiring = "Software Engineer"
+        
+    def say_hi(self):
+        print("Thanks for dropping by, I hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## GitHub Stats:
+
 
 <picture>
   <source
@@ -26,7 +33,19 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact&langs_count=8" />
 </picture>
 
-### Languages and Tools:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=holi&hide_rank=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=default&hide_rank=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true" />
+</picture>
+
+## Languages and Tools:
 
 <div style="display: flex; align-items: center; justify-content: center;">
 <img align="middle" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
@@ -56,9 +75,10 @@
   />
   <img align="middle" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 </picture>
+<img align="middle" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
----
+
 <!--
 ### Favorite Projects:
 
