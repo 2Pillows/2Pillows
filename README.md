@@ -50,7 +50,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=resume_template&show_owner=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=resume_template&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=resume_template&show_owner=true" />
 </picture>
 </a>
 
