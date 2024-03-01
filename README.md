@@ -22,7 +22,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&show_owner=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&show_owner=true" />
+  <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&show_owner=true" />
 </picture>
 </a>
 
@@ -36,7 +36,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true" />
+  <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true" />
 </picture>
 </a>
 
@@ -50,7 +50,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=resume_template&show_owner=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=resume_template&show_owner=true" />
+  <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=resume_template&show_owner=true" />
 </picture>
 </a>
 
