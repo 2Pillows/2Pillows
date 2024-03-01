@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-
-
-
 <a>
 <picture>
   <source
