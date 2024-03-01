@@ -1,6 +1,10 @@
-# Hello there 👋
+<p>
+    <h1>Hello there 👋
+    <img align="right" src="https://komarev.com/ghpvc/?username=2Pillows&style=flat&color=blue&label=visitors" alt="visitors">
+    </h1>
+</p>
 
-![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=flat&color=blue&label=visitors)
+
 
 ```python
 
@@ -47,7 +51,7 @@ me.say_hi()
 
 ## Languages and Tools:
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<p>
 <img align="middle" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
 <img align="middle" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
 <img align="middle" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -76,7 +80,7 @@ me.say_hi()
   <img align="middle" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 </picture>
 <img align="middle" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
-</div>
+</p>
 
 
 <!--
