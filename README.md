@@ -2,11 +2,20 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=github_dark_dimmed&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=github_dark_dimmed&rank_icon=percentile" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=github_dark_dimmed&hide_rank=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=github_dark_dimmed&layout=compact" />
-</a>
+</a> -->
 
 <!--
 **2Pillows/2Pillows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
