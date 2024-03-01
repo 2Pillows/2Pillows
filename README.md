@@ -14,14 +14,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=default&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=default&layout=compact&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact&langs_count=8" />
 </picture>
 
 ### Languages and Tools:
