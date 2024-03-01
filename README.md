@@ -1,6 +1,5 @@
 
 
-<a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=holi&hide_rank=true"
@@ -12,9 +11,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true" />
 </picture>
-</a>
 
-<a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact"
@@ -26,7 +23,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact" />
 </picture>
-</a>
 
 ### Languages and Tools:
 
