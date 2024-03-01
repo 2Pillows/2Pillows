@@ -1,5 +1,5 @@
 <p>
-    <h1>Hello there 👋
+    <h1>👋 Hello World!
     <img align="right" src="https://komarev.com/ghpvc/?username=2Pillows&style=flat&color=blue&label=visitors" alt="visitors">
     </h1>
 </p>
