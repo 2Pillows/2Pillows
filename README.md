@@ -18,6 +18,22 @@
 </picture>
 </a>
 
+<a>
+  <picture>
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=holi&hide_rank=true](https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=github-readme-stats)"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=default&hide_rank=true](https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=github-readme-stats)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="[https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true](https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=github-readme-stats)" />
+</picture>
+</a>
+
+
+
 
 
 <!-- <a href="https://github.com/anuraghazra/convoychat">
