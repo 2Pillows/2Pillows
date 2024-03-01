@@ -60,5 +60,32 @@
 
 ---
 
+### Favorite Projects:
 
+<a href="https://github.com/2Pillows/dim_wishlist_splitter">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=holi"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter" />
+</picture>
+</a>
 
+<a href="https://github.com/2Pillows/poe_economy_evaluator"> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=holi"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator" />
+</picture>
+</a>
