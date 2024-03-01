@@ -26,23 +26,23 @@
 
 ### Languages and Tools:
 
-<img align="left" align-items="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
-<img align="left" align-items="center" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
-<img align="left" align-items="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" align-items="center" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" align-items="center" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
-<!--<img align="left" align-items="center" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> -->
-<!--<img align="left" align-items="center" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
-<img align="left" align-items="center" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" align-items="center" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> 
-<img align="left" align-items="center" alt="WebGL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg">
-<!--<img align="left" align-items="center" alt="Puppeteer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" /> -->
-<!--<img align="left" align-items="center" alt="Android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> -->
-<img align="left" align-items="center" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" align-items="center" alt="VirtualBox" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
-<img align="left" align-items="center" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" align-items="center" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
-<img align="left" align-items="center" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
+<img align="left" style="vertical-align: middle;" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
+<img align="left" style="vertical-align: middle;" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+<img align="left" style="vertical-align: middle;" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" style="vertical-align: middle;" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" style="vertical-align: middle;" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
+<!--<img align="left" style="vertical-align: middle;" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> -->
+<!--<img align="left" style="vertical-align: middle;" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
+<img align="left" style="vertical-align: middle;" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" style="vertical-align: middle;" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> 
+<img align="left" style="vertical-align: middle;" alt="WebGL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg">
+<!--<img align="left" style="vertical-align: middle;" alt="Puppeteer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" /> -->
+<!--<img align="left" style="vertical-align: middle;" alt="Android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> -->
+<img align="left" style="vertical-align: middle;" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" style="vertical-align: middle;" alt="VirtualBox" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+<img align="left" style="vertical-align: middle;" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="left" style="vertical-align: middle;" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
+<img align="left" style="vertical-align: middle;" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
 
 <br />
 <br />
