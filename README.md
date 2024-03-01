@@ -14,10 +14,6 @@
 </picture>
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact" />
-</a> 
-
 <a>
 <picture>
   <source
@@ -75,8 +71,6 @@
 </picture>
 </a>
 -->
-
-
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=dark&hide_rank=true" />
