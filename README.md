@@ -59,7 +59,7 @@
 </div>
 
 ---
-
+<!--
 ### Favorite Projects:
 
 <a href="https://github.com/2Pillows/dim_wishlist_splitter">
@@ -89,3 +89,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator" />
 </picture>
 </a>
+-->
