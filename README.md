@@ -53,13 +53,13 @@ me.say_hi()
 <img align="middle" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="middle" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
 <img align="middle" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />
-<!--<img align="middle" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> -->
-<!--<img align="middle" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> -->
+<img align="middle" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="middle" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="middle" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="middle" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" /> 
 <img align="middle" alt="WebGL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg">
 <!--<img align="middle" alt="Puppeteer" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" /> -->
-<!--<img align="middle" alt="Android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> -->
+<img align="middle" alt="Android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
 <img align="middle" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="middle" alt="VirtualBox" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
 <img align="middle" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
@@ -78,6 +78,8 @@ me.say_hi()
 <img align="middle" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
 </div>
 
+
+<!--
 ## Languages and Tools:
 
 <p>
@@ -86,13 +88,13 @@ me.say_hi()
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
-<!--<img alt="C#" src="" /> -->
-<!--<img alt="C++" src="" /> -->
+img alt="C#" src="" /> 
+img alt="C++" src="" /> 
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white" /> 
 <img alt="WebGL" src="https://img.shields.io/badge/-WebGL-%23990000?style=flat-square&logo=webgl&logoColor=white">
-<!--<img alt="Puppeteer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" /> -->
-<!--<img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> -->
+img alt="Puppeteer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppeteer/puppeteer-original.svg" /> 
+img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" /> 
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-%23183A61?style=flat-square&logo=virtualbox&logoColor=white">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -100,6 +102,7 @@ me.say_hi()
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
 </p>
+-->
 
 <!--
 ### Favorite Projects:
