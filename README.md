@@ -1,3 +1,9 @@
+# Hello there 👋
+
+![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=flat&color=blue&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=flat-square&color=blue&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=plastic&color=blue&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=for-the-badge&color=blue&label=visitors)
 
 <picture>
   <source
@@ -57,8 +63,5 @@
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=flat&color=blue&label=visitors)
-![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=flat-square&color=blue&label=visitors)
-![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=plastic&color=blue&label=visitors)
-![visitors](https://komarev.com/ghpvc/?username=2Pillows&style=for-the-badge&color=blue&label=visitors)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=2pillows.2pillows)
+
+
