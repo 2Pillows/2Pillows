@@ -107,7 +107,7 @@ img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master
 </p>
 -->
 
-### Favorite Projects:
+## Favorite Projects:
 
 <a href="https://github.com/2Pillows/dim_wishlist_splitter">
 <picture>
