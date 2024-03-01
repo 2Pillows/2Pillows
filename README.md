@@ -4,8 +4,6 @@
     </h1>
 </p>
 
-
-
 ```python
 
 class SoftwareEngineer:
