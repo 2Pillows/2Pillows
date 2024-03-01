@@ -21,14 +21,14 @@
 <a>
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter" />
 </picture>
 </a>
 
