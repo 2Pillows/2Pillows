@@ -2,16 +2,16 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=rose_pine" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=shadow_blue" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=rose_pine&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=shadow_blue&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=rose_pine&rank_icon=percentile" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=shadow_blue&rank_icon=percentile" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=rose_pine&hide_rank=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=2Pillows&theme=shadow_blue&hide_rank=true" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=github_dark_dimmed&layout=compact" />
