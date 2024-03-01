@@ -8,7 +8,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=default&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
 
 <picture>
