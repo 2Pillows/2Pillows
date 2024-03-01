@@ -23,7 +23,6 @@ me.say_hi()
 
 ## GitHub Stats:
 
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact&langs_count=8"
