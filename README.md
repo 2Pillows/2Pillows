@@ -118,7 +118,7 @@ img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=default&show_owner=true&description_lines_count=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&show_owner=true&description_lines_count=2" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&show_owner=true&description_lines_count=2" />
 </picture>
 </a>
 
@@ -132,6 +132,6 @@ img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=default&show_owner=true&description_lines_count=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true&description_lines_count=2" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true&description_lines_count=2" />
 </picture>
 </a>
