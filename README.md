@@ -11,7 +11,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.alias = "Pillows"
         self.aspiring = "Software Engineer"
-        self.hobbies = ["Programming", "Reading", "Games"]
+        self.hobbies = ["Programming", "Reading", "Gaming"]
         
     def say_hi(self):
         print("Thanks for checking out my profile, I hope you find some of my work interesting.")
