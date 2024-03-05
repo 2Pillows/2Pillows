@@ -28,28 +28,8 @@ me.say_hi()
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact&langs_count=8" />
 </picture>
 
-<!--
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=default&layout=compact&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact&langs_count=8" />
-</picture> -->
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=holi&hide_rank=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=default&hide_rank=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&theme=holi&hide_rank=true">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=2Pillows&show_icons=true&hide_rank=true" />
 </picture>
 
@@ -71,16 +51,9 @@ me.say_hi()
 <img align="middle" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="middle" alt="VirtualBox" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
 <img align="middle" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="middle" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />
+<img align="middle" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" />   
 <picture>
-  <source
-    srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
   <img align="middle" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 </picture>
 <img align="middle" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" />
@@ -114,30 +87,18 @@ img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master
 
 ## Favorite Projects:
 
-<a href="https://github.com/2Pillows/dim_wishlist_splitter">
+<a href="https://github.com/2Pillows/dim_wishlist_splitter">   
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=holi&show_owner=true&description_lines_count=2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=default&show_owner=true&description_lines_count=2"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&theme=holi&show_owner=true&description_lines_count=2">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=dim_wishlist_splitter&show_owner=true&description_lines_count=2" />
 </picture>
 </a>
 
 <a href="https://github.com/2Pillows/poe_economy_evaluator"> 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=holi&show_owner=true&description_lines_count=2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=default&show_owner=true&description_lines_count=2"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=holi&show_owner=true&description_lines_count=2">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true&description_lines_count=2" />
 </picture>
 </a>
