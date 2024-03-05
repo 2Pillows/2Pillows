@@ -24,6 +24,12 @@ me.say_hi()
 ## GitHub Stats:
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact&langs_count=8">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact&langs_count=8" />
+</picture>
+
+<!--
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&theme=holi&layout=compact&langs_count=8"
     media="(prefers-color-scheme: dark)"
@@ -33,7 +39,7 @@ me.say_hi()
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=2Pillows&layout=compact&langs_count=8" />
-</picture>
+</picture> -->
 
 <picture>
   <source
