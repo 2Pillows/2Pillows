@@ -10,7 +10,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.alias = "Pillows"
-        self.aspiring = "Software Engineer"
+        self.role = "Software Engineer"
         self.hobbies = ["Programming", "Reading", "Gaming"]
         
     def say_hi(self):
