@@ -95,10 +95,10 @@ img alt="Android" src="https://raw.githubusercontent.com/devicons/devicon/master
 </picture>
 </a>
 
-<a href="https://github.com/2Pillows/poe_economy_evaluator"> 
+<a href="https://github.com/2Pillows/poe_recombs"> 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&theme=holi&show_owner=true&description_lines_count=2">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_economy_evaluator&show_owner=true&description_lines_count=2" />
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_recombs&theme=holi&show_owner=true&description_lines_count=2">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=2Pillows&repo=poe_recombs&show_owner=true&description_lines_count=2" />
 </picture>
 </a>
